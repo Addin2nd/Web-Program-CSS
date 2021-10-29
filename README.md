@@ -1,2 +1,2 @@
-# Web-Program-CSS-
+# Web-Program-CSS
 Vanilla css
